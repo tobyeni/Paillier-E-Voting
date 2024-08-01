@@ -6,7 +6,7 @@ Configuration Settings
 NUM_CANDIDATES = 5
 
 '''Number of Voters'''
-NUM_VOTERS = 100
+NUM_VOTERS = 10
 
 """Election Board (EM) Host and Port"""
 EM_ADDR = ("localhost", 9000)
